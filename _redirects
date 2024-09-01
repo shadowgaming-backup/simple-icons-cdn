@@ -1,2 +1,1 @@
 /:iconSlug/:color?/:darkModeColor?/ /.netlify/functions/index 200
-/:iconSlug/:color?/:darkModeColor? /api/index.js 200
