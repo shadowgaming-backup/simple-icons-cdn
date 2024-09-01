@@ -1,4 +1,0 @@
-[[redirects]]
-  from = "/:iconSlug"
-  to = "/api/index.js"
-  status = 200
