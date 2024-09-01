@@ -1,1 +1,1 @@
-/:iconSlug/:color?/:darkModeColor? /source/app.js 200
+/:iconSlug/:color?/:darkModeColor? /api/index.js 200
