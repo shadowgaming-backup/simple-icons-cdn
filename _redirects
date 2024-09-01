@@ -1,3 +1,1 @@
-/:iconSlug/:color?/:darkModeColor? /api/index.js 200
-
-/github/:color?/:darkModeColor? /api/index.js 301
+/:iconSlug/:color?/:darkModeColor? /api/app.js 200
