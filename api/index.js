@@ -1,1 +1,1 @@
-export {default} from '../../source/app.js';
+export {default} from '../source/app.js';
