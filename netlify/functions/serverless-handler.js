@@ -1,5 +1,5 @@
 // serverless-handler.js
-import app from './source/app.js'; // Importing the existing app logic
+import app from '../../source/app.js'; // Importing the existing app logic
 
 // Serverless function handler
 export const handler = async (event) => {
