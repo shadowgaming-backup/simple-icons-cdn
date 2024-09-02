@@ -1,0 +1,7 @@
+[build]
+  functions = "netlify/functions"  # This points to your functions directory
+
+[[redirects]]
+  from = "/api/*"                  # Redirect all /api/* requests to serverless functions
+  to = "/.netlify/functions/:splat" # This is where Netlify serves serverless functions
+  status = 200
