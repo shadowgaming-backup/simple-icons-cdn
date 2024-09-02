@@ -1,1 +1,1 @@
-/:iconSlug/ https://simple-icons.netlify.app/.netlify/functions/app 200
+/:iconSlug/:color/:darkModeColor/ /https://simple-icons.netlify.app/.netlify/functions/index 200
